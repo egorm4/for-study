@@ -1,2 +1,2 @@
-Hello. ddd
-dd
+Hello, friend.
+/////
